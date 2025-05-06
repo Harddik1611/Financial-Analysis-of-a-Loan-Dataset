@@ -7,29 +7,29 @@ This Power BI project provides an interactive visual analysis of factors influen
 ## 📊 Dashboard Overview
 
 ### ✅ Page 1 – Loan Overview & Default Insights
-- **KPIs**: Total Loan Amount (33bn), Avg Interest Rate (13.49%), Total Credit Score (147M), Avg Debt-to-Income Ratio (0.50)
+- **KPIs**: Total Loan Amount (33bn), Avg Interest Rate (13.49%), Total Credit Score (147M), Avg Debt-to-Income Ratio (0.50).
 - **Visuals**:
-  - Default Rate by Employment Type
-  - Avg Loan Amount & Avg Income by Age Group
-  - Income Distribution by Employment Type
-  - Loan Amount Distribution by Purpose
-  - Default Rate Trend (2013–2018)
+  - Default Rate by Employment Type.
+  - Avg Loan Amount & Avg Income by Age Group.
+  - Income Distribution by Employment Type.
+  - Loan Amount Distribution by Purpose.
+  - Default Rate Trend (2013–2018).
 
 ### 📈 Page 2 – Credit & Income Segmentation
 - **Visuals**:
-  - Median Loan Amount by Credit Score Bins
-  - High Credit Loan Amount by Age Group and Marital Status
-  - Loan Distribution by Credit Score Bins
-  - Total Loan among Middle-Aged with/without Mortgage & Dependents
-  - Number of Loans by Education Type
+  - Median Loan Amount by Credit Score Bins.
+  - High Credit Loan Amount by Age Group and Marital Status.
+  - Loan Distribution by Credit Score Bins.
+  - Total Loan among Middle-Aged with/without Mortgage & Dependents.
+  - Number of Loans by Education Type.
 
 ### 📉 Page 3 – Year-on-Year Trend Analysis
-- **KPIs**: YTD Loan Amount, YOY Loan Amount Change (%), YOY Default Loan Change Rate (%)
+- **KPIs**: YTD Loan Amount, YOY Loan Amount Change (%), YOY Default Loan Change Rate (%).
 - **Visuals**:
-  - YOY Loan Amount Trend
-  - YOY Default Loan Trend
-  - Loan Distribution by Credit Score and Marital Status (Sankey)
-  - Distribution of Loan Amount by Income Range & Employment Type
+  - YOY Loan Amount Trend.
+  - YOY Default Loan Trend.
+  - Loan Distribution by Credit Score and Marital Status.
+  - Distribution of Loan Amount by Income Range & Employment Type.
 
 ---
 
@@ -120,14 +120,14 @@ This dashboard was built using the following end-to-end ETL and data modeling pi
 
 ## 📃 License
 
-This project is open-source and available under the [MIT License](LICENSE).
+This project is open-source and available under the [MIT License].
 
 ---
 
 ## 📷 Dashboard Previews
-   * "!["Loan Default & Overview"](<images\Page1.png>)
-   * "!["Applicant Financial Profile"](<images\Page2.png>)"
-   * "!["Financial Risk Metrics"](<images\Page3.png>)"
+  "!["Loan Default & Overview"](<images\Page1.png>)" 
+  "!["Applicant Financial Profile"](<images\Page2.png>)"
+  "!["Financial Risk Metrics"](<images\Page3.png>)"
 
 
 ---
