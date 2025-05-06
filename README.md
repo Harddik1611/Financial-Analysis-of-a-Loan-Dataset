@@ -125,9 +125,9 @@ This project is open-source and available under the [MIT License].
 ---
 
 ## 📷 Dashboard Previews
-  "!["Loan Default & Overview"](<images\Page1.png>)" 
-  "!["Applicant Financial Profile"](<images\Page2.png>)"
-  "!["Financial Risk Metrics"](<images\Page3.png>)"
+![Loan Default & Overview](images/Page1.png)
+![Applicant Financial Profile](images/Page2.png)
+![Financial Risk Metrics](images/Page3.png)
 
 
 ---
