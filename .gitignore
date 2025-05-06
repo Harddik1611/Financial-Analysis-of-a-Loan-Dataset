@@ -1,0 +1,17 @@
+# Power BI
+*.pbix.lock
+*.pbix.tmp
+*.ipynb_checkpoints
+
+# Data
+/data/
+*.xlsx
+*.log
+
+# Environments
+.env
+*.bak
+
+# OS/Editors
+.DS_Store
+Thumbs.db
