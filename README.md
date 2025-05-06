@@ -109,7 +109,7 @@ This dashboard was built using the following end-to-end ETL and data modeling pi
 
 1. Clone the repository  
    ```bash
-   git clone https://github.com/your-username/loan-default-risk-dashboard.git
+   git clone https://github.com/Harddik1611 Financial-Analysis-of-a-Loan-Dataset.git
    ```
 
 2. Open the `.pbix` file in Power BI Desktop.
@@ -120,13 +120,19 @@ This dashboard was built using the following end-to-end ETL and data modeling pi
 
 ## 📃 License
 
-This project is open-source and available under the [MIT License].
+This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
 ## 📷 Dashboard Previews
+
+### 🔹 Loan Default & Overview
 ![Loan Default & Overview](images/Page1.png)
+
+### 🔹 Applicant Financial Profile
 ![Applicant Financial Profile](images/Page2.png)
+
+### 🔹 Financial Risk Metrics
 ![Financial Risk Metrics](images/Page3.png)
 
 
